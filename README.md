@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustina Carazo an University Technician in Programming.</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/afcarazo/afcarazo/blob/main/App.js%20(1).gif">
+<img src="https://github.com/afcarazo/afcarazo/blob/main/App.js%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afcarazo&label=Profile%20views&color=0e75b6&style=flat" alt="afcarazo" /> </p>
 
 - 📫 How to reach me **agustina.carazo01@gmail.com**
